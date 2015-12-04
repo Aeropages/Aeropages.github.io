@@ -3,6 +3,9 @@ body {
 	background-color:black;
 }
 h1 {
-	text-allign:  center;
+	text-align:  center;
 	background-color: rgb(83,0,0);
+	margin-left: 100px;
+	margin-right: 100px;
+	
 }
