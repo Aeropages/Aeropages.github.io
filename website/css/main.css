@@ -5,7 +5,9 @@ body {
 h1 {
 	text-align:  center;
 	background-color: rgb(83,0,0);
-	margin-left: 100px;
-	margin-right: 100px;
+	margin-left: 75px;
+	margin-right: 75px;
+	border-color: rgb(40,0,0);
+	border-width: 10px;
 	
 }
