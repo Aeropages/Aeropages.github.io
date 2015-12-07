@@ -2,12 +2,10 @@ body {
 	color: rgb(255,0,0);
 	background-color:black;
 }
-h1 {
-	text-align:  center;
+
+h1{
+  	text-align:  center;
 	background-color: rgb(83,0,0);
-	margin-left: 55px;
-	margin-right: 55px;
-	border-color: rgb(40,0,0);
-	border-width: 50px;
-	
+	margin-left: 300px;
+	margin-right: 300px;
 }
