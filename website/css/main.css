@@ -1,11 +1,14 @@
 body {
-	color: rgb(255,0,0);
+	color:white;
 	background-color:black;
+	font-family: 'Vesper Libre', serif;
 }
 
 h1{
+	color: rgb(255,0,0);
   	text-align:  center;
 	background-color: rgb(83,0,0);
 	margin-left: 300px;
 	margin-right: 300px;
 }
+
