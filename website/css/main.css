@@ -2,6 +2,7 @@ body {
 	color:white;
 	background-color:black;
 	font-family: 'Vesper Libre', serif;
+	
 }
 
 h1{
@@ -10,5 +11,7 @@ h1{
 	background-color: rgb(83,0,0);
 	margin-left: 300px;
 	margin-right: 300px;
+	padding-left: 50px;
+	padding-right: 50px;
 }
 
