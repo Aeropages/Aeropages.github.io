@@ -11,9 +11,6 @@ h1{
 	background-color: rgb(83,0,0);
 	margin-left: 300px;
 	margin-right: 300px;
-	border-width: 5px;
-	border-left-width: 10px;
-	border-right-width: 10px;
-	border-color: rgb(90,0,0);
+	border-width: 8px;
 }
 
