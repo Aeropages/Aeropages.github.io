@@ -9,9 +9,9 @@ h1{
 	color: rgb(255,0,0);
   	text-align:  center;
 	background-color: rgb(83,0,0);
-	margin-left: 300px;
-	margin-right: 300px;
-	border-width: 8px;
+	margin-left: 5%px;
+	margin-right: 5%px;
+	border-width: 3%px;
 }
 
 nav ul li a:hover {
