@@ -16,7 +16,7 @@ h1{
 
 nav ul li a:hover {
 	background-color: rgb(40,0,0);
-	color: #fff;
+	color: rgb(40,0,0);
 }
 
 @media screen and (max-width: 600px) {
